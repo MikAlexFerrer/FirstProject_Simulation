@@ -26,7 +26,7 @@ def addShip(AliveCells, grid):
         grid[cells[0]:cells[0]+var_sizes[glider][0], cells[1]:cells[1]+var_sizes[glider][1]] = var_sizes[glider][2]
 
 def randomGrid(row, col):
-    return np.random.choice(vals, row*col, p=[0.88, 0.12]).reshape(row, col)
+    return np.random.choice(vals, row*col, p=[0.93, 0.07]).reshape(row, col)
  
 def countLifes(grid, x, y, col, row):
     sum = 0
@@ -41,7 +41,7 @@ def countLifes(grid, x, y, col, row):
 
     return sum/255
 
-def update(frameNum, img, grid, row, col, output_frame):
+def update(frameNum, img, grid, row, col):
     global frame
     newGrid = grid.copy()
 
@@ -57,9 +57,7 @@ def update(frameNum, img, grid, row, col, output_frame):
     img.set_data(newGrid)
     grid[:] = newGrid[:]
 
-    if (output_frame[frame] == frameNum):
-        frame = len(output_frame)-1
-        outputValues(row, col, grid, frameNum)
+    outputValues(row, col, grid, frameNum)
 
     return img,
 
@@ -82,6 +80,8 @@ def outputValues(row, col, grid, frame):
     today = date.today()
 
     variations = [0] * len(var_sizes)
+
+    print("Frame N: " + str(frame))
 
     for x in range (row):
         for y in range (col):
@@ -143,13 +143,11 @@ def main():
     ax.set_yticks([])
     img = ax.imshow(grid, interpolation='nearest')
 
-    gens = int(info[4][0])
-    output_frame = np.sort(np.random.randint(gens, size = 2))
+    gens = int(info[4][0])+1
 
-    ani = animation.FuncAnimation(fig, frames = gens, func=update, fargs=(img, grid, row, col, output_frame), interval = updateInterval, save_count=50, repeat = False)
+    ani = animation.FuncAnimation(fig, frames = gens, func=update, fargs=(img, grid, row, col), interval = updateInterval, save_count=50, repeat = False)
 
     plt.show()
-    counter.close()
 
 if __name__ == '__main__':
     main()

@@ -1,36 +1,3636 @@
-Simulation at 2023-03-05
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 0
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|6        |50.0
+|Beehive 	|0        |0.0
+|Loaf     	|0        |0.0
+|Boat     	|0        |0.0
+|Tub      	|1        |8.33
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |16.67
+|LG sp ship	|3        |25.0
+__________________________________
+|Total     	|12        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 0
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|7        |53.85
+|Beehive 	|0        |0.0
+|Loaf     	|0        |0.0
+|Boat     	|0        |0.0
+|Tub      	|1        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |15.38
+|LG sp ship	|3        |23.08
+__________________________________
+|Total     	|13        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 1
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|8        |57.14
+|Beehive 	|0        |0.0
+|Loaf     	|0        |0.0
+|Boat     	|0        |0.0
+|Tub      	|1        |7.14
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |14.29
+|LG sp ship	|3        |21.43
+__________________________________
+|Total     	|14        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 2
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|9        |52.94
+|Beehive 	|1        |5.88
+|Loaf     	|1        |5.88
+|Boat     	|0        |0.0
+|Tub      	|1        |5.88
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |11.76
+|LG sp ship	|3        |17.65
+__________________________________
+|Total     	|17        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 3
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |57.89
+|Beehive 	|1        |5.26
+|Loaf     	|1        |5.26
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|3        |15.79
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 4
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |55.0
+|Beehive 	|2        |10.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|3        |15.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 5
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |57.14
+|Beehive 	|2        |9.52
+|Loaf     	|1        |4.76
+|Boat     	|0        |0.0
+|Tub      	|1        |4.76
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.52
+|LG sp ship	|3        |14.29
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 6
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |55.0
+|Beehive 	|2        |10.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|3        |15.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 7
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |55.0
+|Beehive 	|2        |10.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|3        |15.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 8
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |59.09
+|Beehive 	|2        |9.09
+|Loaf     	|1        |4.55
+|Boat     	|0        |0.0
+|Tub      	|1        |4.55
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.09
+|LG sp ship	|3        |13.64
+__________________________________
+|Total     	|22        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 9
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |59.09
+|Beehive 	|2        |9.09
+|Loaf     	|1        |4.55
+|Boat     	|0        |0.0
+|Tub      	|1        |4.55
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.09
+|LG sp ship	|3        |13.64
+__________________________________
+|Total     	|22        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 10
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |57.14
+|Beehive 	|2        |9.52
+|Loaf     	|1        |4.76
+|Boat     	|0        |0.0
+|Tub      	|1        |4.76
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.52
+|LG sp ship	|3        |14.29
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 11
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |57.14
+|Beehive 	|2        |9.52
+|Loaf     	|1        |4.76
+|Boat     	|0        |0.0
+|Tub      	|1        |4.76
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.52
+|LG sp ship	|3        |14.29
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 12
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |60.0
+|Beehive 	|2        |10.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|2        |10.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 13
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |60.0
+|Beehive 	|2        |10.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|2        |10.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 14
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |60.0
+|Beehive 	|2        |10.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|2        |10.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 15
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |60.0
+|Beehive 	|2        |10.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|2        |10.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 16
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |57.89
+|Beehive 	|2        |10.53
+|Loaf     	|1        |5.26
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|2        |10.53
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 17
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |57.89
+|Beehive 	|2        |10.53
+|Loaf     	|1        |5.26
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|2        |10.53
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 18
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |57.89
+|Beehive 	|2        |10.53
+|Loaf     	|1        |5.26
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|2        |10.53
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 19
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |57.89
+|Beehive 	|2        |10.53
+|Loaf     	|1        |5.26
+|Boat     	|1        |5.26
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|1        |5.26
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 20
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |52.38
+|Beehive 	|4        |19.05
+|Loaf     	|1        |4.76
+|Boat     	|1        |4.76
+|Tub      	|1        |4.76
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.52
+|LG sp ship	|1        |4.76
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 21
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |52.38
+|Beehive 	|4        |19.05
+|Loaf     	|1        |4.76
+|Boat     	|1        |4.76
+|Tub      	|1        |4.76
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.52
+|LG sp ship	|1        |4.76
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 22
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |54.55
+|Beehive 	|4        |18.18
+|Loaf     	|1        |4.55
+|Boat     	|1        |4.55
+|Tub      	|1        |4.55
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.09
+|LG sp ship	|1        |4.55
+__________________________________
+|Total     	|22        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 23
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |54.55
+|Beehive 	|4        |18.18
+|Loaf     	|1        |4.55
+|Boat     	|1        |4.55
+|Tub      	|1        |4.55
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.09
+|LG sp ship	|1        |4.55
+__________________________________
+|Total     	|22        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 24
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |54.55
+|Beehive 	|4        |18.18
+|Loaf     	|1        |4.55
+|Boat     	|1        |4.55
+|Tub      	|1        |4.55
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.09
+|LG sp ship	|1        |4.55
+__________________________________
+|Total     	|22        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 25
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |57.14
+|Beehive 	|3        |14.29
+|Loaf     	|1        |4.76
+|Boat     	|1        |4.76
+|Tub      	|1        |4.76
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.52
+|LG sp ship	|1        |4.76
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 26
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |57.14
+|Beehive 	|3        |14.29
+|Loaf     	|1        |4.76
+|Boat     	|1        |4.76
+|Tub      	|1        |4.76
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.52
+|LG sp ship	|1        |4.76
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 27
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |60.0
+|Beehive 	|3        |15.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|1        |5.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 28
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |60.0
+|Beehive 	|3        |15.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|1        |5.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 29
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |60.0
+|Beehive 	|3        |15.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|1        |5.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
 Universe size 100 200
 Iteration 30
 __________________________________
 |       	|  Count  |  Percent  
-|Block   	|23        |54.76
-|Beehive 	|6        |14.29
-|Loaf     	|4        |9.52
-|Boat     	|5        |11.9
-|Tub      	|1        |2.38
+|Block   	|12        |60.0
+|Beehive 	|3        |15.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
 |Blinker  	|0        |0.0
 |Toad     	|0        |0.0
 |Beacon   	|0        |0.0
-|Glider    	|3        |7.14
+|Glider    	|2        |10.0
+|LG sp ship	|1        |5.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 31
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |63.16
+|Beehive 	|3        |15.79
+|Loaf     	|1        |5.26
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
 |LG sp ship	|0        |0.0
 __________________________________
-|Total     	|42        |          
+|Total     	|19        |          
 __________________________________
-Simulation at 2023-03-05
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 32
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |61.11
+|Beehive 	|3        |16.67
+|Loaf     	|1        |5.56
+|Boat     	|0        |0.0
+|Tub      	|1        |5.56
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |11.11
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|18        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 33
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |63.16
+|Beehive 	|3        |15.79
+|Loaf     	|1        |5.26
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 34
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |63.16
+|Beehive 	|3        |15.79
+|Loaf     	|1        |5.26
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 35
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |63.16
+|Beehive 	|3        |15.79
+|Loaf     	|1        |5.26
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 36
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |61.11
+|Beehive 	|3        |16.67
+|Loaf     	|1        |5.56
+|Boat     	|0        |0.0
+|Tub      	|1        |5.56
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |11.11
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|18        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 37
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |61.11
+|Beehive 	|3        |16.67
+|Loaf     	|1        |5.56
+|Boat     	|0        |0.0
+|Tub      	|1        |5.56
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |11.11
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|18        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 38
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |61.11
+|Beehive 	|3        |16.67
+|Loaf     	|1        |5.56
+|Boat     	|0        |0.0
+|Tub      	|1        |5.56
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |11.11
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|18        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 39
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|11        |57.89
+|Beehive 	|3        |15.79
+|Loaf     	|2        |10.53
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 40
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |63.16
+|Beehive 	|3        |15.79
+|Loaf     	|1        |5.26
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 41
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |61.9
+|Beehive 	|3        |14.29
+|Loaf     	|1        |4.76
+|Boat     	|1        |4.76
+|Tub      	|1        |4.76
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.52
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 42
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |63.16
+|Beehive 	|3        |15.79
+|Loaf     	|1        |5.26
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 43
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |60.0
+|Beehive 	|3        |15.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|3        |15.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 44
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |61.9
+|Beehive 	|3        |14.29
+|Loaf     	|1        |4.76
+|Boat     	|0        |0.0
+|Tub      	|1        |4.76
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|3        |14.29
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 45
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |63.16
+|Beehive 	|3        |15.79
+|Loaf     	|1        |5.26
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 46
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|14        |63.64
+|Beehive 	|3        |13.64
+|Loaf     	|1        |4.55
+|Boat     	|1        |4.55
+|Tub      	|1        |4.55
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.09
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|22        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 47
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |63.16
+|Beehive 	|3        |15.79
+|Loaf     	|1        |5.26
+|Boat     	|0        |0.0
+|Tub      	|1        |5.26
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.53
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|19        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 48
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |65.0
+|Beehive 	|3        |15.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 49
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |60.0
+|Beehive 	|4        |20.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 50
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |61.9
+|Beehive 	|4        |19.05
+|Loaf     	|1        |4.76
+|Boat     	|0        |0.0
+|Tub      	|1        |4.76
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.52
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 51
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |57.14
+|Beehive 	|4        |19.05
+|Loaf     	|1        |4.76
+|Boat     	|0        |0.0
+|Tub      	|2        |9.52
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.52
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 52
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |54.55
+|Beehive 	|4        |18.18
+|Loaf     	|2        |9.09
+|Boat     	|0        |0.0
+|Tub      	|2        |9.09
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.09
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|22        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 53
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |60.0
+|Beehive 	|4        |20.0
+|Loaf     	|1        |5.0
+|Boat     	|0        |0.0
+|Tub      	|1        |5.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |10.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|20        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 54
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |57.14
+|Beehive 	|4        |19.05
+|Loaf     	|2        |9.52
+|Boat     	|0        |0.0
+|Tub      	|1        |4.76
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.52
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 55
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|12        |57.14
+|Beehive 	|4        |19.05
+|Loaf     	|2        |9.52
+|Boat     	|0        |0.0
+|Tub      	|1        |4.76
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.52
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|21        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 56
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |59.09
+|Beehive 	|4        |18.18
+|Loaf     	|2        |9.09
+|Boat     	|0        |0.0
+|Tub      	|1        |4.55
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.09
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|22        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 57
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|16        |64.0
+|Beehive 	|4        |16.0
+|Loaf     	|2        |8.0
+|Boat     	|0        |0.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 58
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|15        |62.5
+|Beehive 	|4        |16.67
+|Loaf     	|2        |8.33
+|Boat     	|0        |0.0
+|Tub      	|1        |4.17
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.33
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|24        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 59
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|15        |62.5
+|Beehive 	|4        |16.67
+|Loaf     	|2        |8.33
+|Boat     	|0        |0.0
+|Tub      	|1        |4.17
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.33
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|24        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 60
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|14        |60.87
+|Beehive 	|4        |17.39
+|Loaf     	|2        |8.7
+|Boat     	|0        |0.0
+|Tub      	|1        |4.35
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|23        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 61
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|14        |60.87
+|Beehive 	|4        |17.39
+|Loaf     	|2        |8.7
+|Boat     	|0        |0.0
+|Tub      	|1        |4.35
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|23        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 62
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|16        |64.0
+|Beehive 	|4        |16.0
+|Loaf     	|2        |8.0
+|Boat     	|0        |0.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 63
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|15        |57.69
+|Beehive 	|5        |19.23
+|Loaf     	|2        |7.69
+|Boat     	|1        |3.85
+|Tub      	|1        |3.85
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |7.69
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 64
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|15        |57.69
+|Beehive 	|5        |19.23
+|Loaf     	|2        |7.69
+|Boat     	|1        |3.85
+|Tub      	|1        |3.85
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |7.69
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 65
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|15        |57.69
+|Beehive 	|5        |19.23
+|Loaf     	|2        |7.69
+|Boat     	|1        |3.85
+|Tub      	|1        |3.85
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |7.69
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 66
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|14        |56.0
+|Beehive 	|5        |20.0
+|Loaf     	|2        |8.0
+|Boat     	|1        |4.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 67
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|14        |56.0
+|Beehive 	|5        |20.0
+|Loaf     	|2        |8.0
+|Boat     	|1        |4.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 68
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|15        |57.69
+|Beehive 	|5        |19.23
+|Loaf     	|2        |7.69
+|Boat     	|1        |3.85
+|Tub      	|1        |3.85
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |7.69
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 69
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|16        |59.26
+|Beehive 	|5        |18.52
+|Loaf     	|2        |7.41
+|Boat     	|1        |3.7
+|Tub      	|1        |3.7
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |7.41
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 70
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|14        |56.0
+|Beehive 	|5        |20.0
+|Loaf     	|2        |8.0
+|Boat     	|1        |4.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 71
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |54.17
+|Beehive 	|5        |20.83
+|Loaf     	|2        |8.33
+|Boat     	|1        |4.17
+|Tub      	|1        |4.17
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.33
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|24        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 72
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |54.17
+|Beehive 	|5        |20.83
+|Loaf     	|2        |8.33
+|Boat     	|1        |4.17
+|Tub      	|1        |4.17
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.33
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|24        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 73
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |54.17
+|Beehive 	|5        |20.83
+|Loaf     	|2        |8.33
+|Boat     	|1        |4.17
+|Tub      	|1        |4.17
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.33
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|24        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 74
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |52.0
+|Beehive 	|5        |20.0
+|Loaf     	|2        |8.0
+|Boat     	|1        |4.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|3        |12.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 75
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|14        |58.33
+|Beehive 	|5        |20.83
+|Loaf     	|2        |8.33
+|Boat     	|0        |0.0
+|Tub      	|1        |4.17
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.33
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|24        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 76
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |56.52
+|Beehive 	|5        |21.74
+|Loaf     	|2        |8.7
+|Boat     	|0        |0.0
+|Tub      	|1        |4.35
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|23        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 77
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |59.09
+|Beehive 	|4        |18.18
+|Loaf     	|2        |9.09
+|Boat     	|0        |0.0
+|Tub      	|1        |4.55
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.09
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|22        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 78
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|14        |60.87
+|Beehive 	|4        |17.39
+|Loaf     	|2        |8.7
+|Boat     	|0        |0.0
+|Tub      	|1        |4.35
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|23        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 79
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |59.09
+|Beehive 	|4        |18.18
+|Loaf     	|2        |9.09
+|Boat     	|0        |0.0
+|Tub      	|1        |4.55
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.09
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|22        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 80
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|15        |62.5
+|Beehive 	|4        |16.67
+|Loaf     	|2        |8.33
+|Boat     	|0        |0.0
+|Tub      	|1        |4.17
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.33
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|24        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 81
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|14        |60.87
+|Beehive 	|4        |17.39
+|Loaf     	|2        |8.7
+|Boat     	|0        |0.0
+|Tub      	|1        |4.35
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|23        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 82
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|14        |60.87
+|Beehive 	|4        |17.39
+|Loaf     	|2        |8.7
+|Boat     	|0        |0.0
+|Tub      	|1        |4.35
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |8.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|23        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 83
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|13        |59.09
+|Beehive 	|4        |18.18
+|Loaf     	|2        |9.09
+|Boat     	|0        |0.0
+|Tub      	|1        |4.55
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |9.09
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|22        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 84
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|14        |63.64
+|Beehive 	|4        |18.18
+|Loaf     	|2        |9.09
+|Boat     	|0        |0.0
+|Tub      	|1        |4.55
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |4.55
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|22        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 85
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |65.38
+|Beehive 	|4        |15.38
+|Loaf     	|2        |7.69
+|Boat     	|0        |0.0
+|Tub      	|2        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.85
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 86
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |65.38
+|Beehive 	|4        |15.38
+|Loaf     	|2        |7.69
+|Boat     	|0        |0.0
+|Tub      	|2        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.85
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 87
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|18        |62.07
+|Beehive 	|4        |13.79
+|Loaf     	|4        |13.79
+|Boat     	|0        |0.0
+|Tub      	|2        |6.9
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.45
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|29        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 88
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |62.96
+|Beehive 	|4        |14.81
+|Loaf     	|3        |11.11
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 89
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|16        |61.54
+|Beehive 	|4        |15.38
+|Loaf     	|3        |11.54
+|Boat     	|0        |0.0
+|Tub      	|2        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.85
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 90
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|15        |62.5
+|Beehive 	|4        |16.67
+|Loaf     	|2        |8.33
+|Boat     	|0        |0.0
+|Tub      	|2        |8.33
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |4.17
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|24        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 91
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|15        |62.5
+|Beehive 	|4        |16.67
+|Loaf     	|2        |8.33
+|Boat     	|0        |0.0
+|Tub      	|2        |8.33
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |4.17
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|24        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 92
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|16        |66.67
+|Beehive 	|4        |16.67
+|Loaf     	|2        |8.33
+|Boat     	|0        |0.0
+|Tub      	|1        |4.17
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |4.17
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|24        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 93
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |68.0
+|Beehive 	|4        |16.0
+|Loaf     	|2        |8.0
+|Boat     	|0        |0.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |4.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 94
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|16        |64.0
+|Beehive 	|4        |16.0
+|Loaf     	|3        |12.0
+|Boat     	|0        |0.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |4.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 95
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|16        |64.0
+|Beehive 	|4        |16.0
+|Loaf     	|3        |12.0
+|Boat     	|0        |0.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |4.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 96
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|18        |66.67
+|Beehive 	|4        |14.81
+|Loaf     	|3        |11.11
+|Boat     	|0        |0.0
+|Tub      	|1        |3.7
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 97
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |65.38
+|Beehive 	|4        |15.38
+|Loaf     	|3        |11.54
+|Boat     	|0        |0.0
+|Tub      	|1        |3.85
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.85
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 98
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |68.0
+|Beehive 	|4        |16.0
+|Loaf     	|3        |12.0
+|Boat     	|0        |0.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 99
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |68.0
+|Beehive 	|4        |16.0
+|Loaf     	|3        |12.0
+|Boat     	|0        |0.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 100
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |68.0
+|Beehive 	|4        |16.0
+|Loaf     	|3        |12.0
+|Boat     	|0        |0.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 101
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |68.0
+|Beehive 	|4        |16.0
+|Loaf     	|3        |12.0
+|Boat     	|0        |0.0
+|Tub      	|1        |4.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 102
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |62.96
+|Beehive 	|4        |14.81
+|Loaf     	|3        |11.11
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 103
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |65.38
+|Beehive 	|4        |15.38
+|Loaf     	|3        |11.54
+|Boat     	|0        |0.0
+|Tub      	|2        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 104
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |65.38
+|Beehive 	|4        |15.38
+|Loaf     	|3        |11.54
+|Boat     	|0        |0.0
+|Tub      	|2        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 105
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|19        |67.86
+|Beehive 	|4        |14.29
+|Loaf     	|3        |10.71
+|Boat     	|0        |0.0
+|Tub      	|2        |7.14
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|28        |          
+__________________________________
+Simulation at 2023-03-06
 Universe size 100 200
 Iteration 106
 __________________________________
 |       	|  Count  |  Percent  
-|Block   	|32        |66.67
-|Beehive 	|0        |0.0
-|Loaf     	|7        |14.58
-|Boat     	|3        |6.25
-|Tub      	|1        |2.08
+|Block   	|18        |66.67
+|Beehive 	|4        |14.81
+|Loaf     	|3        |11.11
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
 |Blinker  	|0        |0.0
-|Toad     	|1        |2.08
+|Toad     	|0        |0.0
 |Beacon   	|0        |0.0
-|Glider    	|4        |8.33
+|Glider    	|0        |0.0
 |LG sp ship	|0        |0.0
 __________________________________
-|Total     	|48        |          
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 107
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |65.38
+|Beehive 	|4        |15.38
+|Loaf     	|3        |11.54
+|Boat     	|0        |0.0
+|Tub      	|2        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 108
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|16        |66.67
+|Beehive 	|3        |12.5
+|Loaf     	|3        |12.5
+|Boat     	|0        |0.0
+|Tub      	|2        |8.33
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|24        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 109
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|16        |64.0
+|Beehive 	|4        |16.0
+|Loaf     	|3        |12.0
+|Boat     	|0        |0.0
+|Tub      	|2        |8.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 110
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |65.38
+|Beehive 	|4        |15.38
+|Loaf     	|3        |11.54
+|Boat     	|0        |0.0
+|Tub      	|2        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 111
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|16        |64.0
+|Beehive 	|4        |16.0
+|Loaf     	|3        |12.0
+|Boat     	|0        |0.0
+|Tub      	|2        |8.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 112
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|18        |66.67
+|Beehive 	|4        |14.81
+|Loaf     	|3        |11.11
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 113
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |65.38
+|Beehive 	|3        |11.54
+|Loaf     	|3        |11.54
+|Boat     	|0        |0.0
+|Tub      	|2        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.85
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 114
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |65.38
+|Beehive 	|3        |11.54
+|Loaf     	|3        |11.54
+|Boat     	|0        |0.0
+|Tub      	|2        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.85
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 115
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |65.38
+|Beehive 	|3        |11.54
+|Loaf     	|3        |11.54
+|Boat     	|0        |0.0
+|Tub      	|2        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.85
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 116
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |68.0
+|Beehive 	|3        |12.0
+|Loaf     	|3        |12.0
+|Boat     	|0        |0.0
+|Tub      	|2        |8.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 117
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|17        |70.83
+|Beehive 	|3        |12.5
+|Loaf     	|2        |8.33
+|Boat     	|0        |0.0
+|Tub      	|2        |8.33
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|24        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 118
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|18        |72.0
+|Beehive 	|3        |12.0
+|Loaf     	|2        |8.0
+|Boat     	|0        |0.0
+|Tub      	|2        |8.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 119
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|18        |72.0
+|Beehive 	|3        |12.0
+|Loaf     	|2        |8.0
+|Boat     	|0        |0.0
+|Tub      	|2        |8.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 120
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|18        |72.0
+|Beehive 	|3        |12.0
+|Loaf     	|2        |8.0
+|Boat     	|0        |0.0
+|Tub      	|2        |8.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 121
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|19        |73.08
+|Beehive 	|3        |11.54
+|Loaf     	|2        |7.69
+|Boat     	|0        |0.0
+|Tub      	|2        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 122
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|21        |75.0
+|Beehive 	|3        |10.71
+|Loaf     	|2        |7.14
+|Boat     	|0        |0.0
+|Tub      	|2        |7.14
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|28        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 123
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|21        |75.0
+|Beehive 	|3        |10.71
+|Loaf     	|2        |7.14
+|Boat     	|0        |0.0
+|Tub      	|2        |7.14
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|28        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 124
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |74.07
+|Beehive 	|3        |11.11
+|Loaf     	|2        |7.41
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 125
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |74.07
+|Beehive 	|3        |11.11
+|Loaf     	|2        |7.41
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 126
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |74.07
+|Beehive 	|3        |11.11
+|Loaf     	|2        |7.41
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 127
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |74.07
+|Beehive 	|3        |11.11
+|Loaf     	|2        |7.41
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 128
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |74.07
+|Beehive 	|3        |11.11
+|Loaf     	|2        |7.41
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 129
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |74.07
+|Beehive 	|3        |11.11
+|Loaf     	|2        |7.41
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 130
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|19        |70.37
+|Beehive 	|3        |11.11
+|Loaf     	|2        |7.41
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 131
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|19        |67.86
+|Beehive 	|3        |10.71
+|Loaf     	|2        |7.14
+|Boat     	|1        |3.57
+|Tub      	|2        |7.14
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.57
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|28        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 132
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|19        |70.37
+|Beehive 	|3        |11.11
+|Loaf     	|2        |7.41
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 133
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |74.07
+|Beehive 	|2        |7.41
+|Loaf     	|2        |7.41
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 134
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|21        |70.0
+|Beehive 	|2        |6.67
+|Loaf     	|2        |6.67
+|Boat     	|0        |0.0
+|Tub      	|3        |10.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |6.67
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|30        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 135
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |66.67
+|Beehive 	|2        |6.67
+|Loaf     	|2        |6.67
+|Boat     	|0        |0.0
+|Tub      	|3        |10.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|3        |10.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|30        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 136
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|22        |73.33
+|Beehive 	|2        |6.67
+|Loaf     	|2        |6.67
+|Boat     	|0        |0.0
+|Tub      	|3        |10.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.33
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|30        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 137
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|21        |70.0
+|Beehive 	|2        |6.67
+|Loaf     	|2        |6.67
+|Boat     	|0        |0.0
+|Tub      	|3        |10.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |6.67
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|30        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 138
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |68.97
+|Beehive 	|2        |6.9
+|Loaf     	|2        |6.9
+|Boat     	|0        |0.0
+|Tub      	|3        |10.34
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |6.9
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|29        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 139
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|21        |72.41
+|Beehive 	|2        |6.9
+|Loaf     	|2        |6.9
+|Boat     	|0        |0.0
+|Tub      	|2        |6.9
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |6.9
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|29        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 140
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|19        |70.37
+|Beehive 	|2        |7.41
+|Loaf     	|2        |7.41
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |7.41
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 141
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |71.43
+|Beehive 	|2        |7.14
+|Loaf     	|2        |7.14
+|Boat     	|0        |0.0
+|Tub      	|2        |7.14
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |7.14
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|28        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 142
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|18        |72.0
+|Beehive 	|2        |8.0
+|Loaf     	|2        |8.0
+|Boat     	|0        |0.0
+|Tub      	|2        |8.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |4.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 143
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|19        |73.08
+|Beehive 	|2        |7.69
+|Loaf     	|2        |7.69
+|Boat     	|0        |0.0
+|Tub      	|2        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.85
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|26        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 144
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|18        |72.0
+|Beehive 	|2        |8.0
+|Loaf     	|2        |8.0
+|Boat     	|0        |0.0
+|Tub      	|2        |8.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |4.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|25        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 145
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |74.07
+|Beehive 	|2        |7.41
+|Loaf     	|2        |7.41
+|Boat     	|0        |0.0
+|Tub      	|2        |7.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.7
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|27        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 146
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |71.43
+|Beehive 	|2        |7.14
+|Loaf     	|2        |7.14
+|Boat     	|1        |3.57
+|Tub      	|2        |7.14
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.57
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|28        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 147
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|22        |78.57
+|Beehive 	|2        |7.14
+|Loaf     	|2        |7.14
+|Boat     	|0        |0.0
+|Tub      	|1        |3.57
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.57
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|28        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 148
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|21        |75.0
+|Beehive 	|2        |7.14
+|Loaf     	|2        |7.14
+|Boat     	|0        |0.0
+|Tub      	|2        |7.14
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.57
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|28        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 149
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|21        |70.0
+|Beehive 	|2        |6.67
+|Loaf     	|2        |6.67
+|Boat     	|1        |3.33
+|Tub      	|2        |6.67
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |6.67
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|30        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 150
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|21        |70.0
+|Beehive 	|2        |6.67
+|Loaf     	|2        |6.67
+|Boat     	|1        |3.33
+|Tub      	|2        |6.67
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |6.67
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|30        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 151
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|22        |68.75
+|Beehive 	|2        |6.25
+|Loaf     	|3        |9.38
+|Boat     	|1        |3.12
+|Tub      	|2        |6.25
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |6.25
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|32        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 152
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|21        |65.62
+|Beehive 	|2        |6.25
+|Loaf     	|3        |9.38
+|Boat     	|1        |3.12
+|Tub      	|2        |6.25
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|3        |9.38
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|32        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 153
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|21        |65.62
+|Beehive 	|2        |6.25
+|Loaf     	|3        |9.38
+|Boat     	|1        |3.12
+|Tub      	|3        |9.38
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |6.25
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|32        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 154
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|21        |65.62
+|Beehive 	|2        |6.25
+|Loaf     	|3        |9.38
+|Boat     	|1        |3.12
+|Tub      	|3        |9.38
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |6.25
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|32        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 155
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|20        |62.5
+|Beehive 	|2        |6.25
+|Loaf     	|4        |12.5
+|Boat     	|1        |3.12
+|Tub      	|3        |9.38
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |6.25
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|32        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 156
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|19        |63.33
+|Beehive 	|2        |6.67
+|Loaf     	|4        |13.33
+|Boat     	|1        |3.33
+|Tub      	|3        |10.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.33
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|30        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 157
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|19        |63.33
+|Beehive 	|2        |6.67
+|Loaf     	|4        |13.33
+|Boat     	|1        |3.33
+|Tub      	|3        |10.0
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.33
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|30        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 158
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|22        |68.75
+|Beehive 	|2        |6.25
+|Loaf     	|3        |9.38
+|Boat     	|1        |3.12
+|Tub      	|3        |9.38
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.12
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|32        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 159
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|22        |70.97
+|Beehive 	|2        |6.45
+|Loaf     	|3        |9.68
+|Boat     	|0        |0.0
+|Tub      	|3        |9.68
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.23
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|31        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 160
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|22        |70.97
+|Beehive 	|3        |9.68
+|Loaf     	|3        |9.68
+|Boat     	|0        |0.0
+|Tub      	|2        |6.45
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.23
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|31        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 161
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|23        |71.88
+|Beehive 	|3        |9.38
+|Loaf     	|3        |9.38
+|Boat     	|0        |0.0
+|Tub      	|2        |6.25
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.12
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|32        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 162
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|25        |73.53
+|Beehive 	|3        |8.82
+|Loaf     	|3        |8.82
+|Boat     	|0        |0.0
+|Tub      	|2        |5.88
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |2.94
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|34        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 163
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|24        |72.73
+|Beehive 	|3        |9.09
+|Loaf     	|3        |9.09
+|Boat     	|0        |0.0
+|Tub      	|2        |6.06
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.03
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|33        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 164
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|23        |71.88
+|Beehive 	|3        |9.38
+|Loaf     	|3        |9.38
+|Boat     	|0        |0.0
+|Tub      	|2        |6.25
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.12
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|32        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 165
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|24        |72.73
+|Beehive 	|3        |9.09
+|Loaf     	|3        |9.09
+|Boat     	|0        |0.0
+|Tub      	|2        |6.06
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.03
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|33        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 166
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|23        |71.88
+|Beehive 	|3        |9.38
+|Loaf     	|3        |9.38
+|Boat     	|0        |0.0
+|Tub      	|2        |6.25
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.12
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|32        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 167
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|23        |67.65
+|Beehive 	|4        |11.76
+|Loaf     	|3        |8.82
+|Boat     	|0        |0.0
+|Tub      	|3        |8.82
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |2.94
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|34        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 168
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|23        |69.7
+|Beehive 	|3        |9.09
+|Loaf     	|3        |9.09
+|Boat     	|0        |0.0
+|Tub      	|3        |9.09
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |3.03
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|33        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 169
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|24        |70.59
+|Beehive 	|3        |8.82
+|Loaf     	|3        |8.82
+|Boat     	|0        |0.0
+|Tub      	|3        |8.82
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |2.94
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|34        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 170
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|24        |72.73
+|Beehive 	|3        |9.09
+|Loaf     	|3        |9.09
+|Boat     	|0        |0.0
+|Tub      	|3        |9.09
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|33        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 171
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|24        |70.59
+|Beehive 	|3        |8.82
+|Loaf     	|3        |8.82
+|Boat     	|1        |2.94
+|Tub      	|3        |8.82
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|34        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 172
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|24        |70.59
+|Beehive 	|3        |8.82
+|Loaf     	|3        |8.82
+|Boat     	|1        |2.94
+|Tub      	|3        |8.82
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|34        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 173
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|25        |73.53
+|Beehive 	|3        |8.82
+|Loaf     	|3        |8.82
+|Boat     	|1        |2.94
+|Tub      	|2        |5.88
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|34        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 174
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|25        |73.53
+|Beehive 	|3        |8.82
+|Loaf     	|3        |8.82
+|Boat     	|1        |2.94
+|Tub      	|2        |5.88
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|34        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 175
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|26        |72.22
+|Beehive 	|3        |8.33
+|Loaf     	|3        |8.33
+|Boat     	|1        |2.78
+|Tub      	|2        |5.56
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |2.78
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|36        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 176
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|26        |72.22
+|Beehive 	|3        |8.33
+|Loaf     	|3        |8.33
+|Boat     	|1        |2.78
+|Tub      	|2        |5.56
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |2.78
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|36        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 177
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|25        |71.43
+|Beehive 	|3        |8.57
+|Loaf     	|3        |8.57
+|Boat     	|2        |5.71
+|Tub      	|2        |5.71
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|35        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 178
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|27        |72.97
+|Beehive 	|3        |8.11
+|Loaf     	|3        |8.11
+|Boat     	|2        |5.41
+|Tub      	|2        |5.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|37        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 179
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|27        |72.97
+|Beehive 	|3        |8.11
+|Loaf     	|3        |8.11
+|Boat     	|2        |5.41
+|Tub      	|2        |5.41
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|37        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 180
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|25        |71.43
+|Beehive 	|3        |8.57
+|Loaf     	|3        |8.57
+|Boat     	|2        |5.71
+|Tub      	|2        |5.71
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|35        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 181
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|25        |71.43
+|Beehive 	|3        |8.57
+|Loaf     	|3        |8.57
+|Boat     	|2        |5.71
+|Tub      	|2        |5.71
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|35        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 182
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|23        |69.7
+|Beehive 	|3        |9.09
+|Loaf     	|3        |9.09
+|Boat     	|2        |6.06
+|Tub      	|2        |6.06
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|33        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 183
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|23        |69.7
+|Beehive 	|3        |9.09
+|Loaf     	|3        |9.09
+|Boat     	|2        |6.06
+|Tub      	|2        |6.06
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|33        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 184
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|25        |71.43
+|Beehive 	|3        |8.57
+|Loaf     	|3        |8.57
+|Boat     	|2        |5.71
+|Tub      	|2        |5.71
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|35        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 185
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|23        |69.7
+|Beehive 	|3        |9.09
+|Loaf     	|3        |9.09
+|Boat     	|1        |3.03
+|Tub      	|3        |9.09
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|33        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 186
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|24        |66.67
+|Beehive 	|3        |8.33
+|Loaf     	|3        |8.33
+|Boat     	|1        |2.78
+|Tub      	|3        |8.33
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|2        |5.56
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|36        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 187
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|23        |69.7
+|Beehive 	|3        |9.09
+|Loaf     	|3        |9.09
+|Boat     	|1        |3.03
+|Tub      	|3        |9.09
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|33        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 188
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|25        |71.43
+|Beehive 	|3        |8.57
+|Loaf     	|3        |8.57
+|Boat     	|1        |2.86
+|Tub      	|3        |8.57
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|35        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 189
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|24        |70.59
+|Beehive 	|3        |8.82
+|Loaf     	|3        |8.82
+|Boat     	|1        |2.94
+|Tub      	|3        |8.82
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|34        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 190
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|23        |67.65
+|Beehive 	|3        |8.82
+|Loaf     	|3        |8.82
+|Boat     	|2        |5.88
+|Tub      	|3        |8.82
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|34        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 191
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|25        |69.44
+|Beehive 	|3        |8.33
+|Loaf     	|3        |8.33
+|Boat     	|2        |5.56
+|Tub      	|3        |8.33
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|36        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 192
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|26        |70.27
+|Beehive 	|3        |8.11
+|Loaf     	|3        |8.11
+|Boat     	|2        |5.41
+|Tub      	|3        |8.11
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|37        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 193
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|24        |68.57
+|Beehive 	|3        |8.57
+|Loaf     	|3        |8.57
+|Boat     	|2        |5.71
+|Tub      	|3        |8.57
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|35        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 194
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|27        |71.05
+|Beehive 	|3        |7.89
+|Loaf     	|3        |7.89
+|Boat     	|2        |5.26
+|Tub      	|3        |7.89
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|38        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 195
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|29        |72.5
+|Beehive 	|3        |7.5
+|Loaf     	|3        |7.5
+|Boat     	|2        |5.0
+|Tub      	|3        |7.5
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|40        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 196
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|28        |70.0
+|Beehive 	|3        |7.5
+|Loaf     	|4        |10.0
+|Boat     	|2        |5.0
+|Tub      	|3        |7.5
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|40        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 197
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|27        |69.23
+|Beehive 	|3        |7.69
+|Loaf     	|4        |10.26
+|Boat     	|2        |5.13
+|Tub      	|3        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|39        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 198
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|27        |69.23
+|Beehive 	|3        |7.69
+|Loaf     	|4        |10.26
+|Boat     	|2        |5.13
+|Tub      	|3        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|39        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 199
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|27        |67.5
+|Beehive 	|3        |7.5
+|Loaf     	|4        |10.0
+|Boat     	|2        |5.0
+|Tub      	|3        |7.5
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|1        |2.5
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|40        |          
+__________________________________
+Simulation at 2023-03-06
+Universe size 100 200
+Iteration 200
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|27        |69.23
+|Beehive 	|3        |7.69
+|Loaf     	|4        |10.26
+|Boat     	|2        |5.13
+|Tub      	|3        |7.69
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|0        |0.0
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|39        |          
 __________________________________
