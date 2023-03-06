@@ -1,0 +1,36 @@
+Simulation at 2023-03-05
+Universe size 100 200
+Iteration 30
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|23        |54.76
+|Beehive 	|6        |14.29
+|Loaf     	|4        |9.52
+|Boat     	|5        |11.9
+|Tub      	|1        |2.38
+|Blinker  	|0        |0.0
+|Toad     	|0        |0.0
+|Beacon   	|0        |0.0
+|Glider    	|3        |7.14
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|42        |          
+__________________________________
+Simulation at 2023-03-05
+Universe size 100 200
+Iteration 106
+__________________________________
+|       	|  Count  |  Percent  
+|Block   	|32        |66.67
+|Beehive 	|0        |0.0
+|Loaf     	|7        |14.58
+|Boat     	|3        |6.25
+|Tub      	|1        |2.08
+|Blinker  	|0        |0.0
+|Toad     	|1        |2.08
+|Beacon   	|0        |0.0
+|Glider    	|4        |8.33
+|LG sp ship	|0        |0.0
+__________________________________
+|Total     	|48        |          
+__________________________________

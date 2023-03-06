@@ -1,0 +1,9 @@
+100 200     #Width Height
+200         #Generations
+11 20       #Ship
+34 20       #Ship 
+22 43       #Ship 
+53 65       #Ship 
+12 14       #Ship 
+72 78       #Ship 
+5 94        #Ship 
